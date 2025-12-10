@@ -33,7 +33,7 @@ R: Além de operadora de mainframe, já fui vendedora.
 
 Com base nas suas respostas, identifiquei 3 carreiras muito promissoras:
 
-### 1º LUGAR: **Desenvolvedora de Software / Programadora – 18/20**
+### 1º LUGAR: **Desenvolvedora de Software / Programadora**
 
 ### Por que combina com você:
 - Você gosta de criar produtos e prefere lidar com código.  
@@ -54,7 +54,7 @@ Desenvolvedores são requisitados em empresas de todos os portes. A demanda vari
 
 ---
 
-### 2º LUGAR: **Cientista de Dados / Engenheira de IA – 16/20**
+### 2º LUGAR: **Cientista de Dados / Engenheira de IA**
 
 ### Por que combina com você:
 - Você demonstrou interesse em inteligência artificial.  
@@ -75,7 +75,7 @@ IA e dados são áreas estratégicas em empresas de tecnologia, finanças, saúd
 
 ---
 
-### 3º LUGAR: **Analista de Produto / Product Manager Tech – 14/20**
+### 3º LUGAR: **Analista de Produto / Product Manager Tech**
 
 ### Por que combina com você:
 - Você tem experiência como vendedora, o que ajuda a entender clientes e mercado.  
