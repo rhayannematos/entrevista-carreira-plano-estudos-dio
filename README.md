@@ -4,7 +4,7 @@ Este repositório contém um exercício desenvolvido no Bootcamp CAIXA – Intel
 
 ### AGENT 1
 
-## Perguntas e Respostas
+### Perguntas e Respostas
 
 **O que mais te atrai em tecnologia?**  
 R: Criar produtos.
@@ -35,12 +35,12 @@ Com base nas suas respostas, identifiquei 3 carreiras muito promissoras:
 
 ### 1º LUGAR: **Desenvolvedora de Software / Programadora – 18/20**
 
-#### Por que combina com você:
+### Por que combina com você:
 - Você gosta de criar produtos e prefere lidar com código.  
 - Já tem experiência em ambientes críticos (mainframe), o que mostra disciplina e atenção a detalhes.  
 - A transição aproveita sua base técnica e sua curiosidade por desenvolvimento.
 
-#### O que esperar:
+### O que esperar:
 **Vantagens:**
 - Alta demanda em praticamente todas as regiões.  
 - Possibilidade de atuar em diversas áreas (web, mobile, sistemas corporativos).
@@ -56,12 +56,12 @@ Desenvolvedores são requisitados em empresas de todos os portes. A demanda vari
 
 ### 2º LUGAR: **Cientista de Dados / Engenheira de IA – 16/20**
 
-#### Por que combina com você:
+### Por que combina com você:
 - Você demonstrou interesse em inteligência artificial.  
 - Sua experiência com mainframe mostra que já entende sistemas complexos.  
 - O perfil analítico e a curiosidade por criar soluções inteligentes são fortes pontos.
 
-#### O que esperar:
+### O que esperar:
 **Vantagens:**
 - Área em crescimento acelerado.  
 - Projetos inovadores com impacto direto em produtos e negócios.
@@ -77,12 +77,12 @@ IA e dados são áreas estratégicas em empresas de tecnologia, finanças, saúd
 
 ### 3º LUGAR: **Analista de Produto / Product Manager Tech – 14/20**
 
-#### Por que combina com você:
+### Por que combina com você:
 - Você tem experiência como vendedora, o que ajuda a entender clientes e mercado.  
 - Gosta de criar produtos e pode unir visão de negócio com tecnologia.  
 - Ideal para quem quer transição aproveitando habilidades de comunicação e organização.
 
-#### O que esperar:
+### O que esperar:
 **Vantagens:**
 - Papel estratégico, conecta tecnologia e negócio.  
 - Aproveita sua experiência prévia fora da área técnica.
@@ -100,7 +100,7 @@ Product Managers são cada vez mais valorizados em startups e grandes empresas, 
 
 ### Plano de Estudos
 
-## Visão do Dia a Dia
+### Visão do Dia a Dia
 - Coletar e organizar dados  
 - Explorar e analisar padrões  
 - Criar modelos de machine learning  
@@ -109,7 +109,7 @@ Product Managers são cada vez mais valorizados em startups e grandes empresas, 
 
 ---
 
-## Mapa de Skills
+### Mapa de Skills
 
 **Core Skills:** Python, Estatística, Machine Learning  
 **Nice-to-Have:** Visualização de dados, Bancos de dados  
@@ -117,7 +117,7 @@ Product Managers são cada vez mais valorizados em startups e grandes empresas, 
 
 ---
 
-## Roadmap de 90 Dias
+### Roadmap de 90 Dias
 
 **Mês 1:** Fundamentos (Python, Pandas, Estatística)  
 **Mês 2:** Prática (datasets reais, métricas, algoritmos avançados)  
@@ -125,7 +125,7 @@ Product Managers são cada vez mais valorizados em startups e grandes empresas, 
 
 ---
 
-## Projeto de Portfólio
+### Projeto de Portfólio
 
 **Tema:** Previsão de Vendas com Machine Learning  
 **Entregáveis:** Notebook, relatório de métricas, dashboard simples  
@@ -133,7 +133,7 @@ Product Managers são cada vez mais valorizados em startups e grandes empresas, 
 
 ---
 
-## Roteiro de Entrevistas
+### Roteiro de Entrevistas
 - Explique um projeto de dados  
 - Diferença entre regressão e classificação  
 - Como lidar com dados faltantes  
@@ -142,7 +142,7 @@ Product Managers são cada vez mais valorizados em startups e grandes empresas, 
 
 ---
 
-## Trilha DIO Recomendada
+### Trilha DIO Recomendada
 
 **Bootcamp:** Ciência de Dados com Python  
 **Por que:** Conecta fundamentos de Python, estatística e ML com prática em projetos reais  
@@ -150,6 +150,7 @@ Product Managers são cada vez mais valorizados em startups e grandes empresas, 
 
 ---
 
-## Autor
+### Autor
+
 **Rhayanne Matos**  
 Desenvolvido como parte do Bootcamp CAIXA – Inteligência Artificial na Prática (DIO).
